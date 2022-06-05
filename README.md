@@ -2,7 +2,7 @@
 Creating a single responsive webpage using Django REST API for the User to Sign up, log in, update password, forgot password, and reset password.
 
 To Run Django administration of this project follow below instructions:
-
+```
 mkvirtualenv api
 pip install -r requirements.txt
 create superuser (python manage.py createsuperuser)
@@ -10,6 +10,7 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
 hit http://127.0.0.1:8000/admin/
+```
 
 To Run UI part of this project follow below instructions:
 npm install
