@@ -18,3 +18,12 @@ Below you can see pages that belong to this project
 # Dashboard
 
 ![Dashboard](https://user-images.githubusercontent.com/84641812/172046216-0bc94abe-a4d8-4784-a94f-4cb1de91dcef.jpeg)
+
+# Reset Password
+
+![Reset_Password](https://user-images.githubusercontent.com/84641812/172046553-1005833c-1703-44e4-8aba-b81306b36a28.jpeg)
+
+# Change Password
+
+![Change_Password](https://user-images.githubusercontent.com/84641812/172046513-7873e6d3-6791-4e71-8326-6790a911f63d.jpeg)
+
