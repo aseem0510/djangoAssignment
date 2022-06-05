@@ -158,7 +158,7 @@ SIMPLE_JWT = {
 
 }
 
-PASSWORD_RESET_TIMEOUT=900          # 900 Sec = 15 Min
+PASSWORD_RESET_TIMEOUT=900
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
