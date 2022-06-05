@@ -5,7 +5,7 @@ Below you can see pages that belong to this project
 
 # Home Page
 
-![Home](https://user-images.githubusercontent.com/84641812/172046168-f0693482-43b7-4885-a009-8323148679fb.jpeg)
+![Home](https://user-images.githubusercontent.com/84641812/172046633-e4ccf4e2-eb73-4b02-aa33-296b9f7a647d.jpeg)
 
 # Registration
 
@@ -17,7 +17,7 @@ Below you can see pages that belong to this project
 
 # Dashboard
 
-![Dashboard](https://user-images.githubusercontent.com/84641812/172046216-0bc94abe-a4d8-4784-a94f-4cb1de91dcef.jpeg)
+![Dashboard](https://user-images.githubusercontent.com/84641812/172046648-1ac889f7-992b-458b-8fae-9eeabf1ed7b5.jpeg)
 
 # Reset Password
 
