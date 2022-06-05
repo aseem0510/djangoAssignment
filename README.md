@@ -13,8 +13,10 @@ hit http://127.0.0.1:8000/admin/
 ```
 
 To Run UI part of this project follow below instructions:
+```
 npm install
 npm start
+```
 
 Below you can see pages that belong to this project
 
